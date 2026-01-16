@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+screen-brightness-control
+pyautogui
+customtkinter
+pillow
+numpy
+protobuf==3.20.3
+mediapipe==0.10.9
+tensorflow<2.15
