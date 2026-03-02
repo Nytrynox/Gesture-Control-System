@@ -5,6 +5,6 @@ pyautogui
 customtkinter
 pillow
 numpy
-protobuf==3.20.3
+protobuf==5.29.6
 mediapipe==0.10.9
 tensorflow<2.15
